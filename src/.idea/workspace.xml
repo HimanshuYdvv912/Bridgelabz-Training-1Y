@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75284cdb-2511-4ede-a457-4b1f4c009f27" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/Names.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Lc344.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Lc58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gla/arrays/GreatestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gla/arrays/LC1480.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/gla/arrays/arrayTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaArrays/Level2/ZaraBonus.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="39HNXUIMzdqAmfnmWOdnLWnjVlo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EmployeeBonus.executor": "Run",
+    "Application.LC344.executor": "Run",
+    "Application.LC344a.executor": "Run",
+    "Application.Lc344.executor": "Run",
+    "Application.Lc58.executor": "Run",
+    "Application.ZaraBonus.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "workshop",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75284cdb-2511-4ede-a457-4b1f4c009f27" name="Changes" comment="" />
+      <created>1770349078067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770349078067</updated>
+    </task>
+    <servers />
+  </component>
+</project>
